@@ -95,7 +95,6 @@
 95. One Chance
 96. Mini Ninjas
 97. Journey
-98. Kona
-99. A Way Out
-100. Just Cause 3
-101. Botany Manor
+98. A Way Out
+99. Just Cause 3
+100. Botany Manor
