@@ -31,50 +31,50 @@
 31. Resident Evil 7
 32. Ori and the Will of the Wisps
 33. Shadow of the Colossus
-34. Inside
-35. Half Life 1
-36. Detroit: Become Human
-37. Arctic Awakening
-38. Riddle Transfer 2
-39. Soma
-40. Stray
-41. Papers, Please
-42. Fears to Fathom 4
-43. Rime
-44. Call of the Sea
-45. White Shadows
-46. Everybody’s Gone to the Rapture
-47. Far Cry 4
-48. The Suicide of Rachel Foster
-49. Stanley Parable
-50. Elden Ring
-51. Still Wakes the Deep
-52. Cuphead
-53. Virginia
-54. Abzu
-55. Ori and the Blind Forest
-56. It Takes Two
-57. Outlast
-58. Fears to Fathom 2
-59. The Fidelio Incident
-60. Little Nightmares
-61. Resident Evil 8
-62. Far Cry 1
-63. Gone Home
-64. Hob
-65. Superliminal
-66. Prince of Persia: The Lost Crown
-67. The Talos Principle
-68. TLOZ: The Wind Waker
-69. Far Cry 5
-70. PT
-71. Antichamber
-72. Portal 1
-73. GTA 5
-74. Sleeping Dogs
-75. Limbo
-76. Oxenfree
-77. FIFA 14
+34. Chants of Sennaar
+35. Inside
+36. Half Life 1
+37. Detroit: Become Human
+38. Arctic Awakening
+39. Riddle Transfer 2
+40. Soma
+41. Stray
+42. Papers, Please
+43. Fears to Fathom 4
+44. Rime
+45. Call of the Sea
+46. White Shadows
+47. Everybody’s Gone to the Rapture
+48. Far Cry 4
+49. The Suicide of Rachel Foster
+50. Stanley Parable
+51. Elden Ring
+52. Still Wakes the Deep
+53. Cuphead
+54. Virginia
+55. Abzu
+56. Ori and the Blind Forest
+57. It Takes Two
+58. Outlast
+59. Fears to Fathom 2
+60. The Fidelio Incident
+61. Little Nightmares
+62. Resident Evil 8
+63. Far Cry 1
+64. Gone Home
+65. Hob
+66. Superliminal
+67. Prince of Persia: The Lost Crown
+68. The Talos Principle
+69. TLOZ: The Wind Waker
+70. Far Cry 5
+71. PT
+72. Antichamber
+73. Portal 1
+74. GTA 5
+75. Sleeping Dogs
+76. Limbo
+77. Oxenfree
 78. Killer Frequency
 79. Kinitopet
 80. A Short Hike
