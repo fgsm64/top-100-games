@@ -58,43 +58,43 @@
 58. Outlast
 59. Fears to Fathom 2
 60. The Fidelio Incident
-61. Little Nightmares
-62. Resident Evil 8
-63. Far Cry 1
-64. Gone Home
-65. Hob
-66. Superliminal
-67. Prince of Persia: The Lost Crown
+61. Prince of Persia: The Lost Crown
+62. Little Nightmares
+63. Resident Evil 8
+64. Far Cry 1
+65. Gone Home
+66. Hob
+67. Superliminal
 68. The Talos Principle
 69. TLOZ: The Wind Waker
 70. Far Cry 5
 71. PT
 72. Antichamber
 73. Portal 1
-74. GTA 5
-75. Sleeping Dogs
-76. Limbo
-77. Oxenfree
-78. Killer Frequency
-79. Kinitopet
-80. A Short Hike
-81. The Vanishing of Ethan Carter
-82. Pokemon Heartgold
-83. Presentable Liberty
-84. Kona II: Brume
-85. The Awesome Adventures of Captain Spirit
-86. Logicality
-87. Gris
-88. Indecision
-89. Qube 2
-90. Superhot
-91. Watch Dogs 2
-92. The Crew
-93. Chasing Static
-94. Exit 8
-95. One Chance
-96. Mini Ninjas
-97. Journey
+74. That Which Gave Chase
+75. GTA 5
+76. Sleeping Dogs
+77. Limbo
+78. Oxenfree
+79. Killer Frequency
+80. Kinitopet
+81. A Short Hike
+82. Kona II: Brume
+83. The Vanishing of Ethan Carter
+84. Pokemon Heartgold
+85. Presentable Liberty
+86. The Awesome Adventures of Captain Spirit
+87. Logicality
+88. Gris
+89. Indecision
+90. Qube 2
+91. Superhot
+92. Watch Dogs 2
+93. The Crew
+94. Chasing Static
+95. Exit 8
+96. One Chance
+97. Mini Ninjas
 98. A Way Out
 99. Just Cause 3
 100. Botany Manor
