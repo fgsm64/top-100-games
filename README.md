@@ -18,11 +18,11 @@
 18. Silksong
 19. The Witness
 20. Tunic
-21. Röki
+21. Silent Hill 2
 22. Sekiro
-23. Mutazione
-24. Silent Hill 2
-25. Hollow Knight
+23. Röki
+24. Hollow Knight
+25. Mutazione
 26. TLOZ: Breath of the Wild
 27. Portal 2
 28. Half Life 2
