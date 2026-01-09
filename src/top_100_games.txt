@@ -63,6 +63,7 @@ Little Nightmares
 Resident Evil 8
 Far Cry 1
 Gone Home
+Minecraft
 Hob
 Superliminal
 The Talos Principle
@@ -84,7 +85,6 @@ The Vanishing of Ethan Carter
 Pokemon Heartgold
 Presentable Liberty
 The Awesome Adventures of Captain Spirit
-Logicality
 Gris
 Indecision
 Qube 2
@@ -92,9 +92,9 @@ Superhot
 Watch Dogs 2
 The Crew
 Chasing Static
-Exit 8
 One Chance
 Mini Ninjas
 A Way Out
 Just Cause 3
 Botany Manor
+Caravan Sandwitch

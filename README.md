@@ -63,28 +63,28 @@
 63. Resident Evil 8
 64. Far Cry 1
 65. Gone Home
-66. Hob
-67. Superliminal
-68. The Talos Principle
-69. TLOZ: The Wind Waker
-70. Far Cry 5
-71. PT
-72. Antichamber
-73. Portal 1
-74. That Which Gave Chase
-75. GTA 5
-76. Sleeping Dogs
-77. Limbo
-78. Oxenfree
-79. Killer Frequency
-80. Kinitopet
-81. A Short Hike
-82. Kona II: Brume
-83. The Vanishing of Ethan Carter
-84. Pokemon Heartgold
-85. Presentable Liberty
-86. The Awesome Adventures of Captain Spirit
-87. Logicality
+66. Minecraft
+67. Hob
+68. Superliminal
+69. The Talos Principle
+70. TLOZ: The Wind Waker
+71. Far Cry 5
+72. PT
+73. Antichamber
+74. Portal 1
+75. That Which Gave Chase
+76. GTA 5
+77. Sleeping Dogs
+78. Limbo
+79. Oxenfree
+80. Killer Frequency
+81. Kinitopet
+82. A Short Hike
+83. Kona II: Brume
+84. The Vanishing of Ethan Carter
+85. Pokemon Heartgold
+86. Presentable Liberty
+87. The Awesome Adventures of Captain Spirit
 88. Gris
 89. Indecision
 90. Qube 2
@@ -92,9 +92,9 @@
 92. Watch Dogs 2
 93. The Crew
 94. Chasing Static
-95. Exit 8
-96. One Chance
-97. Mini Ninjas
-98. A Way Out
-99. Just Cause 3
-100. Botany Manor
+95. One Chance
+96. Mini Ninjas
+97. A Way Out
+98. Just Cause 3
+99. Botany Manor
+100. Caravan Sandwitch
