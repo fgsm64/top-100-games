@@ -20,6 +20,7 @@ The Witness
 Tunic
 Silent Hill 2
 Sekiro
+Return of the Obra Dinn
 Röki
 Hollow Knight
 Mutazione
@@ -86,7 +87,6 @@ The Vanishing of Ethan Carter
 Pokemon Heartgold
 Presentable Liberty
 The Awesome Adventures of Captain Spirit
-Gris
 Indecision
 Qube 2
 Watch Dogs 2
@@ -95,6 +95,6 @@ Chasing Static
 One Chance
 Mini Ninjas
 A Way Out
-Just Cause 3
 Botany Manor
 Caravan Sandwitch
+Just Cause 3

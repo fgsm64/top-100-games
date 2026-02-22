@@ -20,73 +20,73 @@
 20. Tunic
 21. Silent Hill 2
 22. Sekiro
-23. Röki
-24. Hollow Knight
-25. Mutazione
-26. TLOZ: Breath of the Wild
-27. Portal 2
-28. Half Life 2
-29. Super Mario Galaxy 1
-30. The Beginner's Guide
-31. Resident Evil 7
-32. Ori and the Will of the Wisps
-33. Shadow of the Colossus
-34. Chants of Sennaar
-35. Inside
-36. Half Life 1
-37. Detroit: Become Human
-38. Arctic Awakening
-39. Riddle Transfer 2
-40. Soma
-41. Stray
-42. Papers, Please
-43. Fears to Fathom 4
-44. Rime
-45. Call of the Sea
-46. White Shadows
-47. Everybody’s Gone to the Rapture
-48. Far Cry 4
-49. The Suicide of Rachel Foster
-50. Stanley Parable
-51. Elden Ring
-52. Still Wakes the Deep
-53. Cuphead
-54. Virginia
-55. Abzu
-56. Ori and the Blind Forest
-57. It Takes Two
-58. Outlast
-59. Fears to Fathom 2
-60. The Fidelio Incident
-61. Prince of Persia: The Lost Crown
-62. Little Nightmares
-63. Resident Evil 8
-64. Far Cry 1
-65. Gone Home
-66. Minecraft
-67. Hob
-68. Superliminal
-69. The Talos Principle
-70. TLOZ: The Wind Waker
-71. Far Cry 5
-72. PT
-73. Antichamber
-74. Portal 1
-75. That Which Gave Chase
-76. GTA 5
-77. Sleeping Dogs
-78. Limbo
-79. Oxenfree
-80. Killer Frequency
-81. Kinitopet
-82. A Short Hike
-83. Kona II: Brume
-84. Bramble: The Mountain King
-85. The Vanishing of Ethan Carter
-86. Pokemon Heartgold
-87. Presentable Liberty
-88. The Awesome Adventures of Captain Spirit
-89. Gris
+23. Return of the Obra Dinn
+24. Röki
+25. Hollow Knight
+26. Mutazione
+27. TLOZ: Breath of the Wild
+28. Portal 2
+29. Half Life 2
+30. Super Mario Galaxy 1
+31. The Beginner's Guide
+32. Resident Evil 7
+33. Ori and the Will of the Wisps
+34. Shadow of the Colossus
+35. Chants of Sennaar
+36. Inside
+37. Half Life 1
+38. Detroit: Become Human
+39. Arctic Awakening
+40. Riddle Transfer 2
+41. Soma
+42. Stray
+43. Papers, Please
+44. Fears to Fathom 4
+45. Rime
+46. Call of the Sea
+47. White Shadows
+48. Everybody’s Gone to the Rapture
+49. Far Cry 4
+50. The Suicide of Rachel Foster
+51. Stanley Parable
+52. Elden Ring
+53. Still Wakes the Deep
+54. Cuphead
+55. Virginia
+56. Abzu
+57. Ori and the Blind Forest
+58. It Takes Two
+59. Outlast
+60. Fears to Fathom 2
+61. The Fidelio Incident
+62. Prince of Persia: The Lost Crown
+63. Little Nightmares
+64. Resident Evil 8
+65. Far Cry 1
+66. Gone Home
+67. Minecraft
+68. Hob
+69. Superliminal
+70. The Talos Principle
+71. TLOZ: The Wind Waker
+72. Far Cry 5
+73. PT
+74. Antichamber
+75. Portal 1
+76. That Which Gave Chase
+77. GTA 5
+78. Sleeping Dogs
+79. Limbo
+80. Oxenfree
+81. Killer Frequency
+82. Kinitopet
+83. A Short Hike
+84. Kona II: Brume
+85. Bramble: The Mountain King
+86. The Vanishing of Ethan Carter
+87. Pokemon Heartgold
+88. Presentable Liberty
+89. The Awesome Adventures of Captain Spirit
 90. Indecision
 91. Qube 2
 92. Watch Dogs 2
@@ -95,6 +95,6 @@
 95. One Chance
 96. Mini Ninjas
 97. A Way Out
-98. Just Cause 3
-99. Botany Manor
-100. Caravan Sandwitch
+98. Botany Manor
+99. Caravan Sandwitch
+100. Just Cause 3
