@@ -38,57 +38,57 @@
 38. Detroit: Become Human
 39. Arctic Awakening
 40. Riddle Transfer 2
-41. Soma
-42. Stray
-43. Papers, Please
-44. Fears to Fathom 4
-45. Rime
-46. Call of the Sea
-47. White Shadows
-48. Everybody’s Gone to the Rapture
-49. Far Cry 4
-50. The Suicide of Rachel Foster
-51. Stanley Parable
-52. Elden Ring
-53. Still Wakes the Deep
-54. Cuphead
-55. Virginia
-56. Abzu
-57. Ori and the Blind Forest
-58. It Takes Two
-59. Outlast
-60. Fears to Fathom 2
-61. The Fidelio Incident
-62. Prince of Persia: The Lost Crown
-63. Little Nightmares
-64. Resident Evil 8
-65. Far Cry 1
-66. Gone Home
-67. Minecraft
-68. Hob
-69. Superliminal
-70. The Talos Principle
-71. TLOZ: The Wind Waker
-72. Far Cry 5
-73. PT
-74. Antichamber
-75. Portal 1
-76. That Which Gave Chase
-77. GTA 5
-78. Sleeping Dogs
-79. Limbo
-80. Oxenfree
-81. Killer Frequency
-82. Kinitopet
-83. A Short Hike
-84. Kona II: Brume
-85. Bramble: The Mountain King
-86. The Vanishing of Ethan Carter
-87. Pokemon Heartgold
-88. Presentable Liberty
-89. The Awesome Adventures of Captain Spirit
-90. Indecision
-91. Qube 2
+41. Elden Ring
+42. Soma
+43. Stray
+44. Papers, Please
+45. The Forgotten City
+46. Fears to Fathom 4
+47. Rime
+48. Call of the Sea
+49. White Shadows
+50. Everybody’s Gone to the Rapture
+51. Far Cry 4
+52. The Suicide of Rachel Foster
+53. Stanley Parable
+54. Still Wakes the Deep
+55. Cuphead
+56. Virginia
+57. Abzu
+58. Ori and the Blind Forest
+59. It Takes Two
+60. Outlast
+61. Fears to Fathom 2
+62. The Fidelio Incident
+63. Prince of Persia: The Lost Crown
+64. Little Nightmares
+65. Resident Evil 8
+66. Far Cry 1
+67. Gone Home
+68. Minecraft
+69. Hob
+70. Superliminal
+71. The Talos Principle
+72. TLOZ: The Wind Waker
+73. Far Cry 5
+74. PT
+75. Antichamber
+76. Portal 1
+77. That Which Gave Chase
+78. GTA 5
+79. Sleeping Dogs
+80. Limbo
+81. Oxenfree
+82. Killer Frequency
+83. Kinitopet
+84. A Short Hike
+85. Kona II: Brume
+86. Bramble: The Mountain King
+87. The Vanishing of Ethan Carter
+88. Pokemon Heartgold
+89. Presentable Liberty
+90. The Awesome Adventures of Captain Spirit
+91. Indecision
 92. Watch Dogs 2
 93. The Crew
 94. Chasing Static
@@ -98,3 +98,5 @@
 98. Botany Manor
 99. Caravan Sandwitch
 100. Just Cause 3
+
+List of what games I've played on [Backloggd](https://backloggd.com/u/fgsm/games/)

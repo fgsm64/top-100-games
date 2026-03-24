@@ -17,6 +17,12 @@ def number_games(games):
         new_games.append(str(i+1) + ". " + game)
     return new_games
 
+def append_backloggd(filename):
+    """Append a link to Backloggd at the end of the file."""
+    with open(filename, "a", encoding="utf-8") as file:
+        file.write("\n\nList of what games I've played on [Backloggd](https://backloggd.com/u/fgsm/games/)\n")
+
+
 def main():
     """Main function to load, number, and save games."""
     input_file = "src/top_100_games.txt"
@@ -29,6 +35,7 @@ def main():
     games = load_games(input_file)
     numbered_games = number_games(games)
     save_games(output_file, numbered_games)
+    append_backloggd(output_file)
 
 if __name__ == "__main__":
     main()

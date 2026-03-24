@@ -38,9 +38,11 @@ Half Life 1
 Detroit: Become Human
 Arctic Awakening
 Riddle Transfer 2
+Elden Ring
 Soma
 Stray
 Papers, Please
+The Forgotten City
 Fears to Fathom 4
 Rime
 Call of the Sea
@@ -49,7 +51,6 @@ Everybody’s Gone to the Rapture
 Far Cry 4
 The Suicide of Rachel Foster
 Stanley Parable
-Elden Ring
 Still Wakes the Deep
 Cuphead
 Virginia
@@ -88,7 +89,6 @@ Pokemon Heartgold
 Presentable Liberty
 The Awesome Adventures of Captain Spirit
 Indecision
-Qube 2
 Watch Dogs 2
 The Crew
 Chasing Static
