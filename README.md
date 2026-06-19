@@ -43,26 +43,26 @@
 43. Stray
 44. Papers, Please
 45. Fears to Fathom 4
-46. Rime
-47. Call of the Sea
-48. White Shadows
-49. Everybody’s Gone to the Rapture
-50. Far Cry 4
-51. The Suicide of Rachel Foster
-52. Stanley Parable
+46. Call of the Sea
+47. White Shadows
+48. Everybody’s Gone to the Rapture
+49. Far Cry 4
+50. The Suicide of Rachel Foster
+51. Stanley Parable
+52. OMORI
 53. The Forgotten City
-54. Still Wakes the Deep
-55. Cuphead
-56. Virginia
-57. Abzu
+54. Rime
+55. Still Wakes the Deep
+56. Cuphead
+57. Virginia
 58. Ori and the Blind Forest
 59. It Takes Two
 60. Outlast
 61. Fears to Fathom 2
 62. The Fidelio Incident
 63. Prince of Persia: The Lost Crown
-64. Little Nightmares
-65. Resident Evil 8
+64. Resident Evil 8
+65. Abzu
 66. Far Cry 1
 67. Minecraft
 68. Hob
@@ -73,30 +73,30 @@
 73. Antichamber
 74. Portal 1
 75. That Which Gave Chase
-76. GTA 5
-77. Limbo
-78. TLOZ: The Wind Waker
-79. Killer Frequency
-80. A Short Hike
-81. Kona II: Brume
-82. Bramble: The Mountain King
-83. Pokemon Heartgold
-84. Presentable Liberty
-85. The Awesome Adventures of Captain Spirit
-86. Indecision
+76. Little Nightmares
+77. GTA 5
+78. Limbo
+79. TLOZ: The Wind Waker
+80. Killer Frequency
+81. A Short Hike
+82. Kona II: Brume
+83. Bramble: The Mountain King
+84. Pokemon Heartgold
+85. Presentable Liberty
+86. The Awesome Adventures of Captain Spirit
 87. Watch Dogs 2
 88. Kinitopet
 89. Sleeping Dogs
-90. despelote
-91. Gone Home
-92. Chasing Static
-93. Oxenfree
-94. One Chance
-95. Mini Ninjas
-96. A Way Out
-97. Milk inside a bag of milk inside a bag of milk
-98. Little Kitty Big City
-99. Caravan Sandwitch
-100. Just Cause 3
+90. Milk inside a bag of milk inside a bag of milk
+91. One Chance
+92. despelote
+93. Gone Home
+94. Mini Ninjas
+95. A Way Out
+96. Little Kitty Big City
+97. Caravan Sandwitch
+98. Just Cause 3
+99. Chasing Static
+100. Oxenfree
 
 List of what games I've played on [Backloggd](https://backloggd.com/u/fgsm/games/)
