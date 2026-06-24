@@ -4,14 +4,14 @@
 4. Red Dead Redemption 2
 5. What Remains of Edith Finch
 6. Life is Strange
-7. Far Cry Primal
-8. Blue Prince
-9. Animal Well
+7. Blue Prince
+8. Animal Well
+9. Far Cry Primal
 10. Faith
-11. Far Cry 3
-12. Super Mario Odyssey
-13. Far Cry 2
-14. Life is Strange: Before the Storm
+11. Super Mario Odyssey
+12. Far Cry 2
+13. Life is Strange: Before the Storm
+14. Far Cry 3
 15. Night in the Woods
 16. Before Your Eyes
 17. Red Dead Redemption
