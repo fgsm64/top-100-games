@@ -22,7 +22,6 @@ def append_backloggd(filename):
     with open(filename, "a", encoding="utf-8") as file:
         file.write("\n\nList of what games I've played on [Backloggd](https://backloggd.com/u/fgsm/games/)\n")
 
-
 def main():
     """Main function to load, number, and save games."""
     input_file = "src/top_100_games.txt"
