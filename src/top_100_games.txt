@@ -17,10 +17,10 @@ Before Your Eyes
 Red Dead Redemption
 Silksong
 The Witness
-Tunic
 Silent Hill 2
 Sekiro
 Return of the Obra Dinn
+Tunic
 Röki
 Hollow Knight
 Mutazione
@@ -35,7 +35,6 @@ Shadow of the Colossus
 Chants of Sennaar
 Inside
 Half Life 1
-Detroit: Become Human
 Arctic Awakening
 Riddle Transfer 2
 Elden Ring
@@ -45,31 +44,31 @@ Papers, Please
 Fears to Fathom 4
 Call of the Sea
 White Shadows
-Everybody’s Gone to the Rapture
+Detroit: Become Human
 Far Cry 4
 The Suicide of Rachel Foster
 Stanley Parable
 OMORI
 The Forgotten City
-Rime
+Prince of Persia: The Lost Crown
 Still Wakes the Deep
 Cuphead
 Virginia
 Ori and the Blind Forest
-It Takes Two
 Outlast
 Fears to Fathom 2
+Everybody’s Gone to the Rapture
+Mouthwashing
 The Fidelio Incident
-Prince of Persia: The Lost Crown
 Resident Evil 8
-Abzu
 Far Cry 1
 Minecraft
-Hob
 Superliminal
+Rime
 The Talos Principle
 Far Cry 5
 PT
+It Takes Two
 Antichamber
 Portal 1
 That Which Gave Chase
@@ -77,10 +76,12 @@ Little Nightmares
 GTA 5
 Limbo
 TLOZ: The Wind Waker
+Abzu
 Killer Frequency
 A Short Hike
 Kona II: Brume
 Bramble: The Mountain King
+Hob
 Pokemon Heartgold
 Presentable Liberty
 The Awesome Adventures of Captain Spirit
@@ -96,5 +97,5 @@ A Way Out
 Little Kitty Big City
 Caravan Sandwitch
 Just Cause 3
+Kona
 Chasing Static
-Oxenfree
