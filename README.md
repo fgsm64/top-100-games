@@ -60,44 +60,43 @@
 60. Everybody’s Gone to the Rapture
 61. Mouthwashing
 62. The Fidelio Incident
-63. Resident Evil 8
-64. Far Cry 1
-65. Minecraft
-66. Superliminal
-67. Rime
-68. The Talos Principle
-69. Far Cry 5
-70. PT
-71. It Takes Two
-72. Antichamber
-73. Portal 1
-74. That Which Gave Chase
-75. Little Nightmares
-76. GTA 5
-77. Limbo
-78. TLOZ: The Wind Waker
-79. Abzu
-80. Killer Frequency
-81. A Short Hike
-82. Kona II: Brume
-83. Bramble: The Mountain King
+63. Bramble: The Mountain King
+64. Resident Evil 8
+65. Far Cry 1
+66. Minecraft
+67. Superliminal
+68. Rime
+69. The Talos Principle
+70. Far Cry 5
+71. PT
+72. It Takes Two
+73. Antichamber
+74. Portal 1
+75. That Which Gave Chase
+76. Little Nightmares
+77. GTA 5
+78. Limbo
+79. TLOZ: The Wind Waker
+80. Abzu
+81. Killer Frequency
+82. A Short Hike
+83. Kona II: Brume
 84. Hob
 85. Pokemon Heartgold
 86. Presentable Liberty
 87. The Awesome Adventures of Captain Spirit
 88. Watch Dogs 2
 89. Kinitopet
-90. Sleeping Dogs
-91. Milk inside a bag of milk inside a bag of milk
-92. One Chance
-93. despelote
-94. Gone Home
-95. Mini Ninjas
-96. A Way Out
-97. Little Kitty Big City
-98. Caravan Sandwitch
-99. Just Cause 3
-100. Kona
-101. Chasing Static
+90. Milk inside a bag of milk inside a bag of milk
+91. One Chance
+92. despelote
+93. Gone Home
+94. Mini Ninjas
+95. A Way Out
+96. Little Kitty Big City
+97. Caravan Sandwitch
+98. Just Cause 3
+99. Kona
+100. Chasing Static
 
 List of what games I've played on [Backloggd](https://backloggd.com/u/fgsm/games/)
