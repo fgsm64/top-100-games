@@ -6,19 +6,19 @@
 6. Life is Strange
 7. Blue Prince
 8. Animal Well
-9. Far Cry Primal
+9. Far Cry 2
 10. Faith
-11. Super Mario Odyssey
-12. Far Cry 2
+11. Far Cry Primal
+12. Super Mario Odyssey
 13. Life is Strange: Before the Storm
-14. Far Cry 3
-15. Night in the Woods
-16. Before Your Eyes
-17. Red Dead Redemption
-18. Silksong
-19. The Witness
-20. Silent Hill 2
-21. Sekiro
+14. Before Your Eyes
+15. Far Cry 3
+16. Red Dead Redemption
+17. Silksong
+18. The Witness
+19. Silent Hill 2
+20. Sekiro
+21. Night in the Woods
 22. Return of the Obra Dinn
 23. Tunic
 24. Röki
