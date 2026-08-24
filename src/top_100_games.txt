@@ -59,7 +59,6 @@ Outlast
 Fears to Fathom 2
 Everybody’s Gone to the Rapture
 Mouthwashing
-The Fidelio Incident
 Bramble: The Mountain King
 Resident Evil 8
 Far Cry 1
@@ -70,6 +69,7 @@ The Talos Principle
 Far Cry 5
 PT
 It Takes Two
+Twelve Minutes
 Antichamber
 Portal 1
 That Which Gave Chase
@@ -81,6 +81,7 @@ Abzu
 Killer Frequency
 A Short Hike
 Kona II: Brume
+The Fidelio Incident
 Hob
 Pokemon Heartgold
 Presentable Liberty
@@ -91,7 +92,6 @@ Milk inside a bag of milk inside a bag of milk
 One Chance
 despelote
 Gone Home
-Mini Ninjas
 A Way Out
 Little Kitty Big City
 Caravan Sandwitch
