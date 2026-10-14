@@ -18,9 +18,9 @@ Silksong
 The Witness
 Silent Hill 2
 Sekiro
-Night in the Woods
 Return of the Obra Dinn
 Tunic
+Night in the Woods
 Röki
 Hollow Knight
 Mutazione
@@ -76,7 +76,6 @@ That Which Gave Chase
 Little Nightmares
 GTA 5
 Limbo
-TLOZ: The Wind Waker
 Abzu
 Killer Frequency
 A Short Hike
@@ -89,6 +88,7 @@ The Awesome Adventures of Captain Spirit
 Watch Dogs 2
 Kinitopet
 Milk inside a bag of milk inside a bag of milk
+TLOZ: The Wind Waker
 One Chance
 despelote
 Gone Home
