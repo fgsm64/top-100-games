@@ -18,9 +18,9 @@
 18. The Witness
 19. Silent Hill 2
 20. Sekiro
-21. Night in the Woods
-22. Return of the Obra Dinn
-23. Tunic
+21. Return of the Obra Dinn
+22. Tunic
+23. Night in the Woods
 24. Röki
 25. Hollow Knight
 26. Mutazione
@@ -76,19 +76,19 @@
 76. Little Nightmares
 77. GTA 5
 78. Limbo
-79. TLOZ: The Wind Waker
-80. Abzu
-81. Killer Frequency
-82. A Short Hike
-83. Kona II: Brume
-84. The Fidelio Incident
-85. Hob
-86. Pokemon Heartgold
-87. Presentable Liberty
-88. The Awesome Adventures of Captain Spirit
-89. Watch Dogs 2
-90. Kinitopet
-91. Milk inside a bag of milk inside a bag of milk
+79. Abzu
+80. Killer Frequency
+81. A Short Hike
+82. Kona II: Brume
+83. The Fidelio Incident
+84. Hob
+85. Pokemon Heartgold
+86. Presentable Liberty
+87. The Awesome Adventures of Captain Spirit
+88. Watch Dogs 2
+89. Kinitopet
+90. Milk inside a bag of milk inside a bag of milk
+91. TLOZ: The Wind Waker
 92. One Chance
 93. despelote
 94. Gone Home
